@@ -1,0 +1,17 @@
+.imge
+{
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: -1;
+}
+
+.navbar .navbar-brand
+{
+    padding:0;
+}
+
+.navbar-nav li
+{
+    font-weight: bold;
+}
